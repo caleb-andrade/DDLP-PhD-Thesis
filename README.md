@@ -131,7 +131,7 @@ It takes as arguments:
     trials 
     epsilon
 
-Example of running Nodes_EDL.py, Difficult_EDL.py:
+Example of running Nodes_EDL.py:
 
     ./python Nodes_EDL.py 1 0 1 0 50 5 0.05
 
@@ -158,7 +158,7 @@ It takes as arguments:
     trials 
     epsilon
 
-Example of running Nodes_EDL.py, Difficult_EDL.py:
+Example of running Difficult_EDL.py:
 
     ./python Difficult_EDL.py 1 0 1 0 50 5 0.05
 
