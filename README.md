@@ -29,6 +29,12 @@ This module contains the forward heuristics.
 
     DDLP_Heuristic.py
     
+### Backward heuristics
+
+This module contains the backward heuristics.
+
+    DDLP_ReverseHeuristic.py
+    
 ### Random
 
 This module deals with the random instance generator from the probabilistic model.
