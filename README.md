@@ -33,7 +33,8 @@ Example of running Scheinermann.py:
     ./python Scheinermann.py 1 0 1 0 50 5
 
 Running the code would generate a graphic like this:
-![width=1 0 max_radius=1 0 max_n=50 trials=5 rows=50 cols=50_Scheinerman-1](https://user-images.githubusercontent.com/13812290/134732341-dcbb93ee-2021-4718-9e6b-75287b34ae78.png)
+![width=1 0 max_radius=1 0 max_n=50 trials=5 rows=50 cols=50_Scheinerman-1](https://user-images.githubusercontent.com/13812290/134732761-76770fe2-7a80-40f7-947b-739a0ade7b83.png)
+
 
 A Google Colab notebook to run the code on your browser is found here:
 https://colab.research.google.com/drive/10oNKfeXd6yWUkTbuOl3hLMdOTgZDqBKb#scrollTo=GyoaL01Ksl5G
