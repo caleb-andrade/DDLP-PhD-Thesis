@@ -19,7 +19,7 @@ This is a class to represent instances of the Data Delivery on a Line Problem (D
 
 ### Scheinerman's model 
 
-This code is to experimentally test Scheinerman's Theorem about the connectivity threshold for random interval graphs.Scheinermann.py takes as arguments:
+This code is to experimentally test Scheinerman's Theorem about the connectivity threshold for random interval graphs. Scheinermann.py takes as arguments:
 
     width = 1.0
     min_radius = 0.0
@@ -33,5 +33,8 @@ Example of running Scheinermann.py:
     ./python Scheinermann.py 1 0 1 0 50 5
 
 Running the code would generate a graphic like this:
-[width=1.0 max_radius=1.0 max_n=50 trials=5 rows=50 cols=50_Scheinerman.pdf](https://github.com/caleb-andrade/DDLP-PhD-Thesis/files/7228091/width.1.0.max_radius.1.0.max_n.50.trials.5.rows.50.cols.50_Scheinerman.pdf)
+![width=1 0 max_radius=1 0 max_n=50 trials=5 rows=50 cols=50_Scheinerman-1](https://user-images.githubusercontent.com/13812290/134732341-dcbb93ee-2021-4718-9e6b-75287b34ae78.png)
+
+A Google Colab notebook to run the code on your browser is found here:
+https://colab.research.google.com/drive/10oNKfeXd6yWUkTbuOl3hLMdOTgZDqBKb#scrollTo=GyoaL01Ksl5G
 
