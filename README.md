@@ -1,7 +1,7 @@
 # DDLP-PhD-Thesis
 Study of algorithmic efficiency for a combinatorial optimization problem.
 
-## Project Description
+## Description
 
 This project is the subject of my Ph.D. thesis. I worked on an NP-Complete problem to demonstrate its inherent
 difficulty by studying a phase transition phenomenon that emerged from a probabilistic model of the Data Delivery
