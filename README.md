@@ -120,7 +120,6 @@ https://colab.research.google.com/drive/10oNKfeXd6yWUkTbuOl3hLMdOTgZDqBKb#scroll
 This code is a graphic visualization of the empirical probability of a randomly generated instance, with parameters (n,r), to have a large number of nodes to be explored by the Backtrack algorithm.
 
     Nodes_EDL.py
-    Difficult_EDL.py
     
 It takes as arguments:
 
@@ -135,7 +134,6 @@ It takes as arguments:
 Example of running Nodes_EDL.py, Difficult_EDL.py:
 
     ./python Nodes_EDL.py 1 0 1 0 50 5 0.05
-    ./python Difficult_EDL.py 1 0 1 0 50 5 0.05
 
 Running the code would generate a graphic like this:
 
@@ -143,7 +141,6 @@ Running the code would generate a graphic like this:
 
 A Google Colab notebook to run the code on your browser (Ctrl+F9) is found here:
 https://colab.research.google.com/drive/12tnJO0D1G8R_zrNYV0Kg1dqX1Ta080IY?usp=sharing
-https://colab.research.google.com/drive/10A1vursHf-1DGyT0R41zAT_EckKG0KgC?usp=sharing
 
 ### Testing difficult instances with approximation algorithms.
 
